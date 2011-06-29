@@ -1,11 +1,11 @@
 Foxy - CSS Framework
 -----
 
-Foxy is CSS3 Framework that use the [calc() function](http://www.w3.org/TR/css3-values/#calc)
+Foxy is CSS3 Framework that use the calc() function
 
-Foxy curently work on Firefox 4 and later.
+Foxy currently work on Firefox 4 and later.
 
-Calc() is cool CSS3 freature that alous to mix various units like (px, em, %)
+Calc() is cool CSS3 feature that allows  to mix various units like (px, em, %)
 
 
 
