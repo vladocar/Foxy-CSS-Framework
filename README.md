@@ -16,3 +16,6 @@ Demos(only Firefox):
 [Demo2](http://dl.dropbox.com/u/2111778/Foxy-CSS-Framework/calc1.html)
 
 [Demo3](http://dl.dropbox.com/u/2111778/Foxy-CSS-Framework/calc2.html)
+
+
+Find more on [my blog](http://www.vcarrer.com/2011/06/foxy-css-framework.html)
